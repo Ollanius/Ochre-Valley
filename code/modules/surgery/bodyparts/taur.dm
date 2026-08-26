@@ -25,7 +25,7 @@
 	// (we don't use icon_state to avoid duplicate rendering on dropped organs)
 	var/taur_icon_state = "naga_s"
 
-	//OV ADD - TAUR BARDING
+	// OV ADD - TAUR BARDING
 	// Determines which set of taur barding sprites to use. Easiest way to do this, frankly... ough.
 	// "m" = mammalian (canine, feline, tempest, kitsune, venard, skunk)
 	// "r" = reptilian (drake, noodle, sloog)
